@@ -20,5 +20,6 @@ public class App
         LOG.warn(message + "we are doing log4j2");
         LOG.fatal(message + "we are doing log4j2");
         LOG.error(message + "working on dev branch");
+        LOG.error(message + "learning git");
     }
 }
