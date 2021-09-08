@@ -16,8 +16,7 @@ public class App
         String message = "Hello World ";
 
         LOG.info(message + "we are doing log4j2");
-        LOG.debug(message + "we are doing log4j2");
-        LOG.warn(message + "we are doing log4j2");
+        LOG.debug(message + "Hello");
         LOG.fatal(message + "we are doing log4j2");
         LOG.error(message + "working on dev branch");
         LOG.error(message + "learning git");
