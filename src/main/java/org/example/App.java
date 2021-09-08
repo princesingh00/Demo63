@@ -19,6 +19,6 @@ public class App
         LOG.debug(message + "we are doing log4j2");
         LOG.warn(message + "we are doing log4j2");
         LOG.fatal(message + "we are doing log4j2");
-        LOG.error(message + "we are doing log4j2");
+        LOG.error(message + "working on dev branch");
     }
 }
